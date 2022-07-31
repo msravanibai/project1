@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<hrad>
+<center>
+<h1>RESPONSIVE WEBSITE</h1>
+</center>
+<style>
+body
+{
+background-image:url('https://www.softiyo.com/wp-content/uploads/Tata-Consultancy-Services-200x200.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+</head>
+<body>
+<p style="color:Blue;">
+Step 1: Open https://nextstep.tcs.com/ and click on Register Now.<br>
+Step 2: Click on IT.<br>
+Step 3: Fill the form and remember Password and Reference ID.<br>
+Step 4: Again Login to https://nextstep.tcs.com using your Reference ID and Password...</p>
+
+<img src="https://media.glassdoor.com/l/2e/fc/80/f0/tcs-logo.jpg" alt="image" width="500" height="500">
+</body>
+<body>
+<center>
+<u><h2>HTML FORMS</h2></u>
+<p>REGISTRATION OF STUDENT FOR AN ONLINE TCS EXAM</p>
+</center>
+<b><label>Name:<br>
+<input type="Name/"></label><br><br>
+<label>Roll No:<br>
+<input type="Roll No/"></label><br><br>
+<label>Parent Details:<br>
+<input type="parent details/"></label><br><br>
+<label>Aadhar Number:<br>
+<input type="Aadhar Number/"></label><br><br>
+<label>Address:<br>
+<input type="Address/"></label><br><br></b>
+<p>
+<b>Qualification:<br></b>
+<label><input type="radio" name="qualification" value="Degree"/>Degree</label><br>
+<label><input type="radio" name="qualification" value="B.tech"/>B.tech</label><br>
+<label><input type="radio" name="qualification" value="M.tech"/>M.tech</label><br>
+</p>
+<p>
+<b>Cources completed:</b>
+<ul style="list-style-type:none;">
+<li><input type="checkbox" name="cource" value="c" />c</li>
+<li><input type="checkbox" name="cource" value="python" />python</li>
+<li><input type="checkbox" name="cource" value="c++" />c++</li>
+<li><input type="checkbox" name="cource" value="html" />html</li>
+<li><input type="checkbox" name="cource" value="css" />css</li>
+<li><input type="checkbox" name="cource" value="java" />java</li>
+</ul>
+</p>
+<b><label>X CGPA:<br><input type="CGPA"/></label><br><br>
+<label>XII CGPA:<br><input type="CGPA"/></label><br><br>
+<label>Upload Resume:<br><input type="file"/></label><br><br>
+<label>Upload Photo:<br><input type="file"/></label><br><br>
+<button type="SUBMIT">SUBMIT</button></b>
+</body>
+</html>
